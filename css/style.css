@@ -1,14 +1,14 @@
 *{
      font-family:  cursive ,'Farsan' ;
 }
-.header-style a{
+/* .header-style a{
     color: green;
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
     margin: 8px;
     padding: 10px;
-}
+} */
 .header-style a:hover {color: rgb(5, 168, 5);
 }
 .header-style::before{
